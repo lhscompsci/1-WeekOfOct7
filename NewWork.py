@@ -9,7 +9,7 @@ print(y)
 print("I said: %r" % x)
 print("I also said: '%s'." % y)
 
-hilarious = False
+hilarious = True
 joke_evaluation = "Isn't that joke so funny?! %r"
 print(joke_evaluation % hilarious)
 
@@ -17,3 +17,13 @@ w = "This is the left side of..."
 e = "a string with a right side."
 
 print(w + e)
+
+
+# More stuff 10-8
+
+print("Mary had a little lamb.")
+print("Its fleece was what as %s." % 'snow')
+print("And everywhere that Mary went.")
+print("." * 10)
+
+
