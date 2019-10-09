@@ -79,3 +79,33 @@ I'll make a list:
 \t* Fishies
 \t* Catnip\n\t* Grass
 """
+
+print(tabbyCat)
+print(persianCat)
+print(backslashCat)
+print(taskCat)
+
+# Escape Seq                What does it do
+# \\
+# \'
+# \"
+# \a
+# \b
+# \f
+# \n
+# \N{name}
+# \r
+# \t
+# \uxxxx
+# \Uxxxxxxxx
+# \v
+# \ooo
+# \xhh
+
+# What's the following code do:
+#  while True:
+#       for i in ["/","-","|","\\","|"]:
+#           print("%s\r" % i, end='')
+
+# Can you replace """ with '''?
+
