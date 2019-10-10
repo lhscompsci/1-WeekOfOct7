@@ -115,3 +115,5 @@ age = input("How old are you? ")
 height = input("How tall are you? ")
 
 print("So, you really %r old and %r tall?  Wow..." % (age, height))
+
+# Practice asking questions and processing responses
