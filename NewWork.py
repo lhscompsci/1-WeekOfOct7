@@ -92,7 +92,7 @@ print(taskCat)
 # \a
 # \b
 # \f
-# \n
+# \ng
 # \N{name}
 # \r
 # \t
@@ -109,3 +109,9 @@ print(taskCat)
 
 # Can you replace """ with '''?
 
+# Asking Questions
+
+age = input("How old are you? ")
+height = input("How tall are you? ")
+
+print("So, you really %r old and %r tall?  Wow..." % (age, height))
